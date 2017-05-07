@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mancave" name="Man Cave Repo" version="0.0.1" provider-name="Man Cave Ent.">
+	<extension point="xbmc.addon.repository" name="Man Cave Repo">
+		<dir>
+			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/mancavekodi/repository.mancave/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/mancavekodi/repository.mancave/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/mancavekodi/repository.mancave/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">A little bit of everything coming your way.</summary>
+		<description lang="en">A little bit of everything coming your way. Support  https://twitter.com/ManCave_Kodi</description>
+		<genre></genre>
+	</extension>
+</addon>
